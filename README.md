@@ -1,2 +1,2 @@
 # hosted-monero-api-spec
-The shared specification of the MyMonero-style hosted wallet API standard 
+The shared specification of the hosted Monero "light" wallet server API standard
